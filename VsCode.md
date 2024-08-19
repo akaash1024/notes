@@ -1,4 +1,6 @@
-https://files.slack.com/files-pri/T05EEJM0B1P-F07GYJXTQ15/-
+
+
+https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
 > Access all available commands based on your current context Keyboard Shortcut: Ctrl+Shift+P
 
